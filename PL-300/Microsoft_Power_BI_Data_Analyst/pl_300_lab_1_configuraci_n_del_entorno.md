@@ -92,8 +92,10 @@ Varios ejercicios del curso simulan la conexión a bases de datos relacionales c
 
 **Configuración de la cuenta:**
 
-1. ServerName: Localhost
-2. Encrypt: Optional
+1. ServerName: **Localhost**
+2. Authentication: **Windows Authentication**
+3. Database: **Default**
+4. Encrypt: **Optional**
 
 ![](images/Captura_de_pantalla_2026-09-21_201.png)
 ---
