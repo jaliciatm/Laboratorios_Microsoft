@@ -93,6 +93,8 @@ Varios ejercicios del curso simulan la conexión a bases de datos relacionales c
 ![](images/Captura_de_pantalla_2026-09-21_204022.png)
 ![](images/Captura_de_pantalla_2026-09-21_204043.png)
 ![](images/Captura_de_pantalla_2026-09-21_204145.png)
+---
+**Bases de datos restauradas de backup:**
 ![](images/Captura_de_pantalla_2026-09-21_204204.png)
 
 ---
