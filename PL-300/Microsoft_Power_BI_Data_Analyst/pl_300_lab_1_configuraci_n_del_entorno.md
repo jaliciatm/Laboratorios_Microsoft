@@ -18,9 +18,9 @@ Para realizar los laboratorios de Microsoft, necesitamos los conjuntos de datos,
 
 **Explicación del proceso:**
 1. Me dirigí al repositorio oficial de GitHub de Microsoft Learning para el PL-300.
-2. Descargué el código fuente (archivo `.zip`).
-![](images/Captura de pantalla 2026-09-21 200842.png)
-3. Extraje la carpeta de recursos. Según las instrucciones oficiales, es una buena práctica alojar estos archivos en una ruta corta para evitar errores de longitud de ruta, por lo que creé la estructura `D:\Allfiles` (o `C:\Allfiles` dependiendo de la unidad disponible en mi máquina virtual/local).
+2. Descargué el código fuente (archivo AllfilesDownload.zip).
+
+3. Extraje la carpeta de recursos. Según las instrucciones oficiales, es una buena práctica alojar estos archivos en una ruta corta para evitar errores de longitud de ruta, por lo que creé la estructura .
 
 > **💡 Ejemplo práctico:** En la carpeta `Allfiles` ahora dispongo de subcarpetas críticas como `Demo`, `Lab` y `MySolution` que usaré en las siguientes prácticas para cargar datos de Excel, CSV o conectarme a carpetas.
 
