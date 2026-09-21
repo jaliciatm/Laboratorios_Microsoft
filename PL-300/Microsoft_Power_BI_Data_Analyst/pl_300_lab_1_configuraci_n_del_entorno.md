@@ -24,10 +24,10 @@ Para realizar los laboratorios de Microsoft, necesitamos los conjuntos de datos,
 
 > **💡 Ejemplo práctico:** En la carpeta `Allfiles` ahora dispongo de subcarpetas críticas como `Demo`, `Lab` y `MySolution` que usaré en las siguientes prácticas para cargar datos de Excel, CSV o conectarme a carpetas.
 
-*(Evidencia: Captura del Explorador de archivos de Windows mostrando la ruta `C:\Allfiles` o `D:\Allfiles` con las carpetas descomprimidas).*
+*(Evidencia: Captura del Explorador de archivos de Windows mostrando la ruta `C:\Allfiles` con las carpetas descomprimidas).*
 
 <!-- 📸 INSTRUCCIÓN PARA TI: Arrastra tu imagen aquí o usa la sintaxis ![Texto alternativo](ruta_de_la_imagen.png) -->
-[🖼️ INSERTA AQUÍ LA CAPTURA DE PANTALLA DEL EXPLORADOR DE ARCHIVOS]
+![](images/Captura de pantalla 2026-09-21 202317.png)
 
 ---
 
