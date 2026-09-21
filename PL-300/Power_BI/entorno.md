@@ -1,7 +1,7 @@
 # 📊 PL-300 Lab 1: Configuración del entorno local de laboratorio (Setup local lab environment)
 
 **Fecha:** Septiembre 2026
-**Certificación:** PL-300 Microsoft Power BI Data Analyst
+**Certificación:** **PL-300 - Microsoft Power BI - Data Analyst**
 
 ---
 
