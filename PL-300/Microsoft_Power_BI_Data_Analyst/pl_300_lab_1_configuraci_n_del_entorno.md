@@ -42,7 +42,7 @@ Power BI Desktop es la herramienta principal de desarrollo para modelado y creac
 
 > **💡 Detalle de configuración:** Para alinear mi entorno con los laboratorios, me aseguré de que las opciones de "Carga de datos" en la configuración global estén según los estándares del curso (por ejemplo, verificar si el autodetectado de relaciones está activo o inactivo, según lo pida el instructor).
 
-*(Evidencia: Captura de pantalla con Power BI Desktop abierto en la pantalla de inicio o en un lienzo en blanco).*
+*(Evidencia: Captura de pantalla con Power BI Desktop abierto en la pantalla de inicio y en un lienzo en blanco).*
 
 <!-- 📸 INSTRUCCIÓN PARA TI: Arrastra tu imagen aquí o usa la sintaxis ![Texto alternativo](ruta_de_la_imagen.png) -->
 ![](images/Captura_de_pantalla_2026-09-21_203415.png)
@@ -64,7 +64,7 @@ Para la fase de distribución de informes (Publicar en el Servicio Power BI, cre
 *(Evidencia: Captura de Power BI Desktop donde se vea tu nombre de usuario o iniciales en la esquina superior derecha, confirmando que has iniciado sesión).*
 
 <!-- 📸 INSTRUCCIÓN PARA TI: Arrastra tu imagen aquí o usa la sintaxis ![Texto alternativo](ruta_de_la_imagen.png) -->
-[🖼️ INSERTA AQUÍ LA CAPTURA DE PANTALLA MOSTRANDO EL INICIO DE SESIÓN EN PBI DESKTOP]
+![](images/Captura_de_pantalla_2026-09-21_222802.png)
 
 ---
 
