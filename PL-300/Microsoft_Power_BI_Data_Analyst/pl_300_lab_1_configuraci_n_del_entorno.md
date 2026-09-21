@@ -100,7 +100,7 @@ Varios ejercicios del curso simulan la conexión a bases de datos relacionales c
 ![](images/Captura_de_pantalla_2026-09-21_201.png)
 ---
 
-**Restore Database:**
+## Restore Database:
 ![](images/Captura_de_pantalla_2026-09-21_203813.png)
 
 **Restore from "...\users\Public\Downloads\AllFiles\DatabaseBackup"**
