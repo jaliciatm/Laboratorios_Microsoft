@@ -47,6 +47,7 @@ Power BI Desktop es la herramienta principal de desarrollo para modelado y creac
 <!-- 📸 INSTRUCCIÓN PARA TI: Arrastra tu imagen aquí o usa la sintaxis ![Texto alternativo](ruta_de_la_imagen.png) -->
 ![](images/Captura_de_pantalla_2026-09-21_203415.png)
 ![](images/Captura_de_pantalla_2026-09-21_221928.png)
+![](images/Captura_de_pantalla_2026-09-21_222802.png)
 
 ---
 
@@ -64,7 +65,8 @@ Para la fase de distribución de informes (Publicar en el Servicio Power BI, cre
 *(Evidencia: Captura de Power BI Desktop donde se vea tu nombre de usuario o iniciales en la esquina superior derecha, confirmando que has iniciado sesión).*
 
 <!-- 📸 INSTRUCCIÓN PARA TI: Arrastra tu imagen aquí o usa la sintaxis ![Texto alternativo](ruta_de_la_imagen.png) -->
-![](images/Captura_de_pantalla_2026-09-21_222802.png)
+![](images/Captura_de_pantalla_2026-09-21_224659.png)
+
 
 ---
 
