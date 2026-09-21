@@ -75,14 +75,23 @@ Varios ejercicios del curso simulan la conexión a bases de datos relacionales c
 **Explicación del proceso:**
 1. Descargué la edición **Developer** de SQL Server, la cual es gratuita para entornos de desarrollo y pruebas.
 2. Ejecuté el instalador usando la opción "Básica" o personalizada asegurándome de instalar únicamente el **Database Engine** (Motor de base de datos).
-3. Configuré la instancia local (generalmente accesible bajo el nombre `localhost` o `.\SQLEXPRESS`).
+3. Configuré la instancia local (generalmente accesible bajo el nombre `localhost`).
 
 > **💡 Ejemplo práctico:** Gracias a esto, cuando en Power BI elija la opción "Obtener datos -> SQL Server", podré escribir `localhost` y conectarme a las bases de datos de prueba (como *AdventureWorks*) que se usarán a lo largo del curso.
 
 *(Evidencia: Captura de pantalla del Centro de instalación de SQL Server indicando "Instalación completada correctamente" o de una herramienta como SSMS conectada a localhost).*
 
 <!-- 📸 INSTRUCCIÓN PARA TI: Arrastra tu imagen aquí o usa la sintaxis ![Texto alternativo](ruta_de_la_imagen.png) -->
-[🖼️ INSERTA AQUÍ LA CAPTURA DE PANTALLA DE LA INSTALACIÓN DE SQL SERVER]
+
+![](images/Captura_de_pantalla_2026-09-21_203538.png)
+![](images/Captura_de_pantalla_2026-09-21_202453.png)
+![](images/Captura_de_pantalla_2026-09-21_2023448.png)
+![](images/Captura_de_pantalla_2026-09-21_201.png)
+![](images/Captura_de_pantalla_2026-09-21_203813.png)
+![](images/Captura_de_pantalla_2026-09-21_204022.png)
+![](images/Captura_de_pantalla_2026-09-21_204043.png)
+![](images/Captura_de_pantalla_2026-09-21_204145.png)
+![](images/Captura_de_pantalla_2026-09-21_204204.png)
 
 ---
 
