@@ -27,7 +27,7 @@ Para realizar los laboratorios de Microsoft, necesitamos los conjuntos de datos,
 *(Evidencia: Captura del Explorador de archivos de Windows mostrando la ruta `C:\Allfiles` con las carpetas descomprimidas).*
 
 <!-- 📸 INSTRUCCIÓN PARA TI: Arrastra tu imagen aquí o usa la sintaxis ![Texto alternativo](ruta_de_la_imagen.png) -->
-![](images/Captura de pantalla 2026-09-21 202317.png)
+![](images/Captura_de_pantalla_2026-09-21_202317.png)
 
 ---
 
