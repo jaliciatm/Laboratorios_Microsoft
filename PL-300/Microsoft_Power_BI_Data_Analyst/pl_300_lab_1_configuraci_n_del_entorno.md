@@ -45,7 +45,7 @@ Power BI Desktop es la herramienta principal de desarrollo para modelado y creac
 *(Evidencia: Captura de pantalla con Power BI Desktop abierto en la pantalla de inicio o en un lienzo en blanco).*
 
 <!-- 📸 INSTRUCCIÓN PARA TI: Arrastra tu imagen aquí o usa la sintaxis ![Texto alternativo](ruta_de_la_imagen.png) -->
-[🖼️ INSERTA AQUÍ LA CAPTURA DE PANTALLA DE POWER BI DESKTOP ABIERTO]
+![](images/Captura_de_pantalla_2026-09-21_203415.png)
 
 ---
 
