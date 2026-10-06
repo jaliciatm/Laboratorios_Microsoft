@@ -41,3 +41,15 @@
 ![](images/Aspose.Words.df1131f6-f8d1-47ec-9e4c-8a256a14794a.019.png)
 
 ![](images/Aspose.Words.df1131f6-f8d1-47ec-9e4c-8a256a14794a.020.png)
+
+---
+---
+***LABORATORIO COMPLETO***
+---
+**Ejercicio 1: Azure SQL Database hacia ADLS Gen2**
+
+**Fase 1. Crear Azure SQL Database**
+
+
+
+
