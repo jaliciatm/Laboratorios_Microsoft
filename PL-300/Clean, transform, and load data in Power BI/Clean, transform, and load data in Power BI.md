@@ -52,14 +52,19 @@ Descargar: https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-A
 
 ![](images/212251.png)
 
+** In the status bar at the bottom-left corner of the Power Query Editor, verify that the query has 5 columns and 18 rows.
+
 ![](images/212422.png)
 
 ---
 ---
+
 ## Configure the SalespersonRegion query
 
+In this task, you’ll configure the SalespersonRegion query.
 
-![](images/191736.png)
+
+![](images/.png)
 
 ---
 ---
