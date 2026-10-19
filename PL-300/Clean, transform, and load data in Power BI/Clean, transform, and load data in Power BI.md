@@ -1,9 +1,12 @@
-# Get data in Power BI
+# Clean, transform, and load data in Power BI
 ---
 ## Lab story
 
 ## Get started with Power BI Desktop
-![](images/174816.png)
+Descargar: https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/02-transform-data-power-bi/02-transform-data.zip
+![](images/184244.png)
+
+![](images/184833.png)
 
 ## Get data from SQL Server
 ![](images/182644.png)
