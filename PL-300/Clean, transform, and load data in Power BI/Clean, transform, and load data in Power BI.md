@@ -77,23 +77,25 @@ In this task, you’ll configure the SalespersonRegion query.
 ---
 ## Configure the Product query
 
-![](images/.png)
+![](images/223132.png)
 
-![](images/.png)
+![](images/223447.png)
 
-![](images/.png)
+![](images/223730.png)
 
-![](images/.png)
+![](images/223812.png)
 
-![](images/.png)
+![](images/224006.png)
 
-![](images/.png)
+![](images/224207.png)
 
-![](images/.png)
+![](images/224716.png)
 
-![](images/.png)
+![](images/225600.png)
 
 In the status bar, verify that the query has 6 columns and 397 rows.
+
+![](images/225913.png)
 
 ---
 ---
