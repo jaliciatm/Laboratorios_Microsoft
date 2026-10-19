@@ -10,7 +10,8 @@ Descargar: https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-A
 
 ![](images/184833.png)
 
-## Get data from SQL Server
+## Configure the Salesperson query
+
 ![](images/182644.png)
 
 ![](images/183002.png)
@@ -21,16 +22,8 @@ Descargar: https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-A
 
 ---
 ---
-## Preview Data in Power Query Editor
-![](images/191247.png)
+## Configure the SalespersonRegion query
 
-![](images/191333.png)
-
-![](images/191441.png)
-
-![](images/191530.png)
-
-![](images/191625.png)
 
 ![](images/191736.png)
 
