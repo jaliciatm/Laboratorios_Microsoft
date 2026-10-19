@@ -93,6 +93,7 @@ In this task, you’ll configure the SalespersonRegion query.
 
 ![](images/.png)
 
+In the status bar, verify that the query has 6 columns and 397 rows.
 
 ---
 ---
