@@ -99,7 +99,7 @@ In the status bar, verify that the query has 6 columns and 397 rows.
 
 ---
 ---
-## Configure the Product query
+## Configure the Reseller query
 ![](images/195548.png)
 
 ![](images/195743.png)
@@ -114,6 +114,10 @@ In the status bar, verify that the query has 6 columns and 397 rows.
 
 ![](images/200333.png)
 
+In the status bar, verify that the query has 6 columns and 701 rows.
+
+
+///////
 ---
 ---
 ## Lab complete
