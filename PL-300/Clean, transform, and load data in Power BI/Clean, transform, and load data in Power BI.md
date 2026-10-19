@@ -12,13 +12,47 @@ Descargar: https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-A
 
 ## Configure the Salesperson query
 
-![](images/182644.png)
+![](images/193409.png)
 
-![](images/183002.png)
+![](images/202900.png)
 
-![](images/190954.png)
+![](images/203032.png)
 
-![](images/191135.png)
+![](images/203115.png)
+
+![](images/203251.png)
+
+![](images/203335.png)
+
+![](images/203424.png)
+
+![](images/203440.png)
+
+![](images/203527.png)
+
+![](images/203815.png)
+
+![](images/203835.png)
+
+![](images/203925.png)
+
+![](images/204043.png)
+
+![](images/210131.png)
+
+![](images/210335.png)
+
+![](images/211330.png)
+
+![](images/211447.png)
+
+![](images/211912.png)
+
+![](images/212103.png)
+
+![](images/212251.png)
+
+![](images/212422.png)
 
 ---
 ---
