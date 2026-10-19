@@ -63,11 +63,19 @@ Descargar: https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-A
 
 In this task, you’ll configure the SalespersonRegion query.
 
+![](images/214429.png)
 
-![](images/.png)
+![](images/215355.png)
+
+![](images/220503.png)
+
+In the status bar, verify that the query has 2 columns and 39 rows.
+
+![](images/220513.png)
 
 ---
 ---
+
 ![](images/192519.png)
 
 ![](images/192649.png)
