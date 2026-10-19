@@ -69,44 +69,34 @@ In this task, you’ll configure the SalespersonRegion query.
 
 ![](images/220503.png)
 
-In the status bar, verify that the query has 2 columns and 39 rows.
+** In the status bar, verify that the query has 2 columns and 39 rows.
 
 ![](images/220513.png)
 
 ---
 ---
+## Configure the Product query
 
-![](images/192519.png)
+![](images/.png)
 
-![](images/192649.png)
+![](images/.png)
 
-![](images/192724.png)
+![](images/.png)
 
-![](images/192806.png)
+![](images/.png)
 
-![](images/193016.png)
+![](images/.png)
 
-![](images/193224.png)
+![](images/.png)
 
-![](images/193440.png)
+![](images/.png)
 
-![](images/193612.png)
+![](images/.png)
 
-![](images/193708.png)
-
-![](images/193819.png)
-
-![](images/193935.png)
-
-![](images/194016.png)
-
-![](images/194200.png)
-
-![](images/194908.png)
 
 ---
 ---
-## Get data from a CSV file
+## Configure the Product query
 ![](images/195548.png)
 
 ![](images/195743.png)
