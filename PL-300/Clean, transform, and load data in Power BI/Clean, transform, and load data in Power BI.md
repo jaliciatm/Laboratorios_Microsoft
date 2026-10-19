@@ -100,22 +100,36 @@ In the status bar, verify that the query has 6 columns and 397 rows.
 ---
 ---
 ## Configure the Reseller query
-![](images/195548.png)
+![](images/232643.png)
 
-![](images/195743.png)
+![](images/232709.png)
 
-![](images/195818.png)
+![](images/232753.png)
 
-![](images/195859.png)
+![](images/233025.png)
 
-![](images/200212.png)
+![](images/233319.png)
 
-![](images/200248.png)
+![](images/233431.png)
 
-![](images/200333.png)
+![](images/235127.png)
+
+![](images/235253.png)
+
+![](images/235350.png)
 
 In the status bar, verify that the query has 6 columns and 701 rows.
 
+![](images/235652.png)
+
+
+---
+---
+## Configure the Reseller query
+
+---
+---
+## Configure the Reseller query
 
 ///////
 ---
