@@ -3,7 +3,9 @@
 ## Lab story
 
 ## Get started with Power BI Desktop
+
 Descargar: https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/02-transform-data-power-bi/02-transform-data.zip
+
 ![](images/184244.png)
 
 ![](images/184833.png)
