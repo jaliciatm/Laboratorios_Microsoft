@@ -122,14 +122,43 @@ In the status bar, verify that the query has 6 columns and 701 rows.
 
 ![](images/235652.png)
 
+---
+---
+## Configure the Region query
+
+![](images/181045.png)
+
+![](images/181601.png)
+
+In the status bar, verify that the query has 4 columns and 10 rows.
+
+![](images/181609.png)
 
 ---
 ---
-## Configure the Reseller query
+## Configure the Sales query
+
+![](images/183003.png)
+
+![](images/183703.png)
+
+![](images/183936.png)
+
+![](images/184319.png)
+
+![](images/185656.png)
+
+![](images/190013.png)
+
+In the status bar, verify that the query has 10 columns and 999+ rows
+
+![](images/184307.png)
 
 ---
 ---
-## Configure the Reseller query
+
+
+
 
 ///////
 ---
