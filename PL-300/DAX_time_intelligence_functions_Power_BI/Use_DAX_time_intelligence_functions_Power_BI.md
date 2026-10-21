@@ -1,4 +1,4 @@
-# Clean, transform, and load data in Power BI
+# Use DAX time intelligence functions in Power BI
 ---
 ## Lab story
 
