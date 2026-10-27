@@ -226,7 +226,7 @@
 
 ### 🎥 Video
 <video width="100%" controls>
-  <source src="video%20final.mp4" type="video/mp4">
+  <source src="images/video%20final.mp4" type="video/mp4">
 </video>
 
 ### Proyecto PBIX Finalizado
