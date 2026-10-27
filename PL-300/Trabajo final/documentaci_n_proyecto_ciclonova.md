@@ -6,39 +6,172 @@
 ### 🎥 Video Adjunto de Presentación
 <video width="100%" controls>
   <source src=""C:\Users\jalic\Pictures\video_final.mp4"" type="video/mp4">
-  
 </video>
 
-### Presentación
+### Presentación PPTX
 
 ![](CicloNova_Proyecto_Completo.pptx)
   
-
 ---
+
+
+Nombre
+
+111213.png
+
+111233.png
+
+112038.png
+
+112106.png
+
+112831.png
+
+113517.png
+
+
+
+
+
+
+
+
+
+
+
+
+165605.png
+
+170001.png
+
+170009.png
+
+170037.png
+
+170742.png
+
+170901.png
+
+171200.png
+
+181134.png
+
+181648.png
+
+182611.png
+
+182703.png
+
+183723.png
+
+183838.png
+
+185339.png
+
+190041.png
+190256.png
+
+190527.png
+
+190637.png
+
+190805.png
+
+191249.png
+
+191349.png
+
+191549.png
+
+191638.png
+
+193210.png
+
+193802.png
+
+194030.png
+
+194955.png
 
 ## FASE 1: Laboratorio Data Warehouse
 **Construcción de la Arquitectura Medallón y Modelo en Estrella en SSMS**
 
 ### Paso 1: Creación de la Base de Datos y Esquemas
 * **Resumen:** Ejecución del script inicial para crear la base de datos `DataWarehouse` y los esquemas `bronze`, `silver` y `gold`, estableciendo la estructura base de la Arquitectura Medallón.
+![](images/153528.png)
+  
 
 ### Paso 1.1: Verificación de la Estructura en SSMS
 * **Resumen:** Comprobación visual en el Explorador de Objetos de SSMS confirmando la creación exitosa de la base de datos y la correcta jerarquía de los esquemas de seguridad.
 
+![](images/153617.png)
+
 ### Paso 2: Creación de Tablas en Capa Bronze
 * **Resumen:** Ejecución del script DDL para definir las seis tablas origen (CRM y ERP) dentro del esquema `bronze`, preparándolas para recibir los datos en crudo.
+![](images/153748.png)
+
+![](images/153923.png)
+
+![](images/154219.png)
 
 ### Paso 2.1: Ingesta Manual y Validación (Capa Bronze)
 * **Resumen:** Uso de `BULK INSERT` para cargar los archivos CSV en las tablas Bronze. Validación posterior confirmando la carga de registros (ej. 18.494 clientes).
 
+![](images/154247.png)
+
+![](images/154336.png)
+
+![](images/154850.png)
+
+
 ### Paso 2.2: Verificación de Tablas Bronze Creadas
 * **Resumen:** Confirmación en el Explorador de Objetos de la existencia de todas las tablas necesarias (`crm_cust_info`, `erp_loc_a101`, etc.) bajo el esquema Bronze.
+
+![](images/155031.png)
 
 ### Paso 3: Creación de Tablas en Capa Silver
 * **Resumen:** Ejecución del script para crear las tablas destino en la capa Silver, preparadas para almacenar los datos limpios, estandarizados y con metadatos técnicos (`dwh_create_date`).
 
+![](images/155420.png)
+
+![](images/155511.png)
+
+![](images/155644.png)
+
+![](images/155804.png)
+
+![](images/155929.png)
+
+![](images/160143.png)
+
+![](images/160222.png)
+
+![](images/160341.png)
+
+![](images/160410.png)
+
+![](images/160438.png)
+
+![](images/160620.png)
+
+
 ### Paso 4: Creación y verificación de Tabla Gold
 * **Resumen:** Ejecución del script para crear las tablas destino en la capa Gold, preparadas para almacenar los datos limpios, estandarizados y con metadatos técnicos (verificado con consulta de TOP 5 ventas).
+
+![](images/1160659.png)
+
+![](images/161134.png)
+
+![](images/161447.png)
+
+![](images/162141.png)
+
+![](images/163420.png)
+
+![](images/163733.png)
+
+![](images/164128.png)
+
 
 ---
 
