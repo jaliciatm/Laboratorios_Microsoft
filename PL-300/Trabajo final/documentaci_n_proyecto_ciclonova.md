@@ -224,9 +224,10 @@
 * Filtros cruzados automáticos activados.
 * Actualización dinámica visual al interactuar con cualquier elemento del lienzo (ej. seleccionar un país o un mes específico).
 
+
 ### 🎥 Video
 <video width="100%" controls>
-  <source src="images/video%20final.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/jaliciatm/Laboratorios_Microsoft/main/PL-300/Trabajo%20final/images/video%20final.mp4" type="video/mp4">
 </video>
 
 ### Proyecto PBIX Finalizado
