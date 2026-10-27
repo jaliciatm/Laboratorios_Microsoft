@@ -3,56 +3,11 @@
 
 ---
 
-### 🎥 Video Adjunto de Presentación
-<video width="100%" controls>
-  <source src=""C:\Users\jalic\Pictures\video_final.mp4"" type="video/mp4">
-</video>
-
 ### Presentación PPTX
 
 ![](CicloNova_Proyecto_Completo.pptx)
   
 ---
-
-
-Nombre
-
-111213.png
-
-111233.png
-
-112038.png
-
-112106.png
-
-112831.png
-
-113517.png
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-193210.png
-
-193802.png
-
-194030.png
-
-194955.png
 
 ## FASE 1: Laboratorio Data Warehouse
 **Construcción de la Arquitectura Medallón y Modelo en Estrella en SSMS**
@@ -207,10 +162,18 @@ Nombre
 * Transición a la Vista de Informe.
 * Paneles de Datos y Visualizaciones desplegados y listos para usar.
 
+![](images/193210.png)
+
 ### PASO 5: Medidas DAX
 * Creación de cálculos explícitos en el modelo.
 * Ventas Totales integradas.
 * Pedidos y Clientes contabilizados.
+  
+![](images/193802.png)
+
+![](images/194030.png)
+
+![](images/194955.png)
 
 ### PASO 6: Dashboard y KPIs
 * Tarjetas de indicadores creadas con éxito.
@@ -218,6 +181,12 @@ Nombre
 * **28K** Pedidos validados.
 * **18K** Clientes totales.
 * *Laboratorio Completado: De datos crudos a inteligencia visual.*
+
+![](images/111213.png)
+
+![](images/111233.png)
+
+
 
 ---
 
@@ -230,6 +199,8 @@ Nombre
 * Dimensión país asignada al eje Y.
 * Ventas Totales asignadas al eje X.
 * Resultado: Estados Unidos liderando ingresos.
+![](images/112038.png)
+
 
 ### Paso 2: Matriz de Categorías
 * **Resumen:** Inserción de la visualización de Matriz (Matrix), permitiendo desglosar los ingresos a nivel de categoría y subcategoría de producto.
@@ -238,6 +209,9 @@ Nombre
 * Ventas asignadas a valores.
 * Resultado: Desglose jerárquico interactivo de productos.
 
+![](images/112106.png)
+
+
 ### Paso 3: Evolución Temporal
 * **Resumen:** Configuración del gráfico de líneas cruzando la tabla calendario (`Año-Mes`) con las Ventas Totales para observar la tendencia a lo largo del tiempo.
 * Gráfico de líneas seleccionado.
@@ -245,10 +219,19 @@ Nombre
 * Ventas Totales asignadas al eje Y.
 * Resultado: Visualización clara de tendencias históricas de facturación.
 
+![](images/112831.png)
+
 ### Prueba Final: Interactividad del Modelo
 * Filtros cruzados automáticos activados.
 * Actualización dinámica visual al interactuar con cualquier elemento del lienzo (ej. seleccionar un país o un mes específico).
 
+### 🎥 Video
+<video width="100%" controls>
+  <source src=""C:\Users\jalic\Pictures\video_final.mp4"" type="video/mp4">
+</video>
+
 ### Proyecto PBIX Finalizado
 * Tema oscuro aplicado para mejorar el contraste visual.
 * Modelo analítico interactivo validado y guardado.
+
+![](images/113517.png)
