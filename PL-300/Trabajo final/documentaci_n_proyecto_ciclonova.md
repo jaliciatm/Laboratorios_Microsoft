@@ -4,7 +4,7 @@
 ---
 
 ### Presentación PPTX
-![](CicloNova_Proyecto_Completo.pptx)
+![](/CicloNova_Proyecto_Completo.pptx)
 ---
 
 ## FASE 1: Laboratorio Data Warehouse
