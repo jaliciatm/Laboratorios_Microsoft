@@ -234,3 +234,5 @@
 * Modelo analítico interactivo validado y guardado.
 
 ![](images/113517.png)
+
+[📥 Descargar el archivo de Power BI (Trabajo final.pbix)](./Trabajo%20final.pbix)
