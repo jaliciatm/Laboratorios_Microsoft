@@ -40,50 +40,11 @@ Nombre
 
 
 
-165605.png
 
-170001.png
 
-170009.png
 
-170037.png
 
-170742.png
 
-170901.png
-
-171200.png
-
-181134.png
-
-181648.png
-
-182611.png
-
-182703.png
-
-183723.png
-
-183838.png
-
-185339.png
-
-190041.png
-190256.png
-
-190527.png
-
-190637.png
-
-190805.png
-
-191249.png
-
-191349.png
-
-191549.png
-
-191638.png
 
 193210.png
 
@@ -183,14 +144,64 @@ Nombre
 * Carga de vistas Gold en Power Query.
 * Cero transformaciones adicionales.
 
+![](images/165605.png)
+
+**Quitamos estas tablas que no vamos a usar por ahora:**
+
+![](images/170001.png)
+
+![](images/170009.png)
+
+![](images/170037.png)
+
+**Y trabajamos sólo con estas de GOLD:**
+
+![](images/170742.png)
+
+![](images/170901.png)
+
 ### PASO 2: Modelado de Datos y Cardinalidad
 * Reconocimiento de claves subrogadas.
 * Detección automática y bloqueo de relaciones duplicadas.
+  
+![](images/171200.png)
+
+![](images/181134.png)
+
+![](images/181648.png)
+
+![](images/182611.png)
+
+![](images/182703.png)
+
+![](images/183723.png)
+
+![](images/183838.png)
+
+![](images/185339.png)
 
 ### PASO 3: Consolidación del Modelo
 * Esquema en estrella validado.
 * Relaciones activas de uno a varios (1:*).
-* Modelo listo para la tabla de calendario.
+* Modelo listo para la tabla de calendario, creación de la nueva tabla "Dim_DATE".
+
+![](images/190041.png)
+
+![](images/190256.png)
+
+![](images/190527.png)
+
+![](images/190637.png)
+
+![](images/190805.png)
+
+![](images/191249.png)
+
+![](images/191349.png)
+
+![](images/191549.png)
+
+![](images/191638.png)
 
 ### PASO 4: Lienzo en Blanco para el Reporte
 * Transición a la Vista de Informe.
