@@ -9,6 +9,11 @@
   
 </video>
 
+### Presentación
+
+![](CicloNova_Proyecto_Completo.pptx)
+  
+
 ---
 
 ## FASE 1: Laboratorio Data Warehouse
