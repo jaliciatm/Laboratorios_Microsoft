@@ -226,9 +226,8 @@
 
 
 ### 🎥 Video
-<video width="100%" controls>
-  <source src="https://raw.githubusercontent.com/jaliciatm/Laboratorios_Microsoft/main/PL-300/Trabajo%20final/images/video%20final.mp4" type="video/mp4">
-</video>
+
+[🎬 Haz clic aquí para ver el video de la interactividad del Dashboard](https://github.com/jaliciatm/Laboratorios_Microsoft/blob/main/PL-300/Trabajo%20final/images/video%20final.mp4)
 
 ### Proyecto PBIX Finalizado
 * Tema oscuro aplicado para mejorar el contraste visual.
