@@ -5,10 +5,9 @@
 
 ### 🎥 Video Adjunto de Presentación
 <video width="100%" controls>
-  <source src="ruta_al_video_adjunto.mp4" type="video/mp4">
-  Tu navegador no soporta la etiqueta de video. Por favor, asegúrate de haber enlazado el archivo de video correcto.
+  <source src=""C:\Users\jalic\Pictures\video_final.mp4"" type="video/mp4">
+  
 </video>
-*(Nota: Reemplaza `ruta_al_video_adjunto.mp4` por el nombre real de tu archivo de video local).*
 
 ---
 
